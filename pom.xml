@@ -21,13 +21,6 @@
 
         <!-- app -->
         <servlet-api.version>4.0.0</servlet-api.version>
-        <spring.version>4.3.14.RELEASE</spring.version>
-        <spring-data-jpa.version>1.11.10.RELEASE</spring-data-jpa.version>
-        <spring-security.version>4.2.4.RELEASE</spring-security.version>
-        <postgresql.version>42.1.4</postgresql.version>
-        <hibernate.version>5.2.13.Final</hibernate.version>
-        <jackson.version>2.9.4</jackson.version>
-        <jaxb-api.version>2.3.0</jaxb-api.version>
 
         <!-- tests -->
         <junit.version>4.12</junit.version>
