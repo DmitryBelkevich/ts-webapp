@@ -21,8 +21,8 @@
 
         <!-- app -->
         <servlet-api.version>4.0.0</servlet-api.version>
-        <spring.version>4.3.14.RELEASE</spring.version>
         <jstl.version>1.2</jstl.version>
+        <spring.version>4.3.14.RELEASE</spring.version>
 
         <!-- tests -->
         <junit.version>4.12</junit.version>
